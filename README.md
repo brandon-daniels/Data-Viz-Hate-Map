@@ -1,3 +1,4 @@
+<img src="Data-Viz-Preview.png">
 # SwastikaMonitor
 The Swastika Monitor is an online swastika tracking project to identify the exact locations in which swastikas have surfaced since 2000 but also various infographics that will identify who is being targeted, in what local places swastikas are most surfacing and with what accompanying texts, and what individual and community responses are emerging. The dataset was curated and labeled by two researchers Laurie Gries (University of Colorado Boulder) and Kelly Wheeler (University of Michigan). The full version of the data is accessible here. This repository was created by research assistant Brandon Daniels, which serves to visualize some aspects of the dataset. 
 
