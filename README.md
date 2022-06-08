@@ -3,7 +3,7 @@ The Swastika Monitor is an online swastika tracking project to identify the exac
 
 View the visualization here: https://brandon-daniels.github.io/SwastikaMonitor/
 
-I'll use this repository as a tutorial for how I prepared the data and created the visualizations. If you have any questions about my process, contact me! This visualization is not the final word on this rich dataset. The principle investigators went through great paints to compile this dataset and meticulously label the data. I can only visualize some parts of the data, and I hope this will lead to a greater engagement with the full dataset.
+I'll use this repository as a tutorial for how I prepared the data and created the visualizations. If you have any questions about my process, contact me! This visualization is not the final word on this rich dataset. The principle investigators went through great pains to compile this dataset and meticulously label the data. I can only visualize some parts of the data, and I hope this will lead to a greater engagement with the full dataset.
 
 ## Preparing the data
 First, I downloaded the completed dataset which is in an Excel Spreadsheet (.xcxl) file format. The principle investigators included many different sheets and color coding mechanisms to work through the data. But in order to process this effectively, I need the file to be in Comma-Seperated-Values (.csv) file format. After deleting the extra worksheets, I saved the file as a CSV through Microsoft Excel. 
