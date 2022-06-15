@@ -20,3 +20,6 @@ Finally, I clean up the data by dropping columns that I won't be using in my vis
 
 ## Creating the visualization
 I undertook this project to learn basic data science skills, but with a focus on an interactive web experience. While there are many pre-made libraries for generating interactive visualizations through python, I choose to write a custom Javascript webpage using the d3.js library. This required fine tuning every aspect of the visualization, such as how the axises are drawn and the exact color scheme. D3.js, or Data-Driven Documents is a library for manipulating HTML elements based on datasets, and using Javascript and web-browsers to create an interactive user experience for exploring data. The attached webpage contains the full Javscript code, with comments for explaining the basic steps. 
+
+You can view a code version of the webpage here:
+https://github.com/brandon-daniels/Data-Viz-Hate-Map/blob/master/index.html
