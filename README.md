@@ -1,4 +1,4 @@
-# SwastikaMonitor
+# Swastika Monitor
 
 <img src="Data-Viz-Preview.png">
 
